@@ -48,7 +48,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<head>\n    <title>페이그램</title>\n    <meta property=\"og:url\" content=\"http://paygram.co.kr/\">\n    <meta property=\"og:title\" content=\"페이그램\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/LbSiwVc.jpg\">\n    <meta property=\"og:description\" content=\"인스타그램 계정통합관리 SNS 마케팅 서비스\">\n    <meta name=\"description\" content=\"인스타그램 계정통합관리 SNS 마케팅 서비스\">\n    <meta name=\"keywords\" content=\"인스타그램 계정통합관리 SNS 마케팅 서비스\">\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
